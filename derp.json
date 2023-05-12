@@ -9,8 +9,8 @@
           "Name": "901a",
           "RegionID": 901,
           "DERPPort": 443,
-          "HostName": "47.120.34.93",
-          "IPv4": "47.120.34.93",
+          "HostName": "http://47.120.34.93",
+          "IPv4": "http://47.120.34.93",
           "InsecureForTests": true
         }
       ]
