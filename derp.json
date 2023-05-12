@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "901": {
+      "RegionID": 901,
+      "RegionCode": "ali-sh",
+      "RegionName": "Aliyun",
+      "Nodes": [
+        {
+          "Name": "901a",
+          "RegionID": 901,
+          "DERPPort": 443,
+          "HostName": "47.120.34.93",
+          "IPv4": "47.120.34.93",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
